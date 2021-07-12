@@ -17,3 +17,10 @@ et en les datant
 - fichier fichier_test2.txt
 - fichier README.md
 - fichier CHANGELOG.md
+
+## [0.2.0] - 2021-07-12
+
+### Changed
+
+- fichier fichier_test1.txt
+- fichier fichier_test2.txt
