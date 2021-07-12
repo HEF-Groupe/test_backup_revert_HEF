@@ -24,9 +24,3 @@ et en les datant
 
 - fichier fichier_test1.txt
 - fichier fichier_test2.txt
-
-## [0.3.0] - 2021-07-12
-
-### Removed
-
-- fichier fichier_test2.txt

@@ -1,8 +1,2 @@
 Ceci est un fichier de test.
 Le premier avoir été créé.
-
-## un peu de code 
-
-function test() {
-    console.log('elle ne sera jamais appelé');
-}
