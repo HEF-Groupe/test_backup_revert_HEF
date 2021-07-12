@@ -1,7 +1,2 @@
 Ceci est aussi un fichier de test.
-Le second a avoir été créé.
-
-#encore un peu de code
-
-function delete () {
-}
+Le premier créé après fichier_test1.txt
