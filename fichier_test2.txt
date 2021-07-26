@@ -1,6 +1,3 @@
 Ceci est aussi un fichier de test.
-<<<<<<< HEAD
+
 Le premier créé après fichier_test1.txt
-=======
-Le second a avoir été créé.
->>>>>>> parent of 5343fc6 (quatrième commit de test)
